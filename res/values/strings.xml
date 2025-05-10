@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">FitnessChatApp</string>
+    <string name="app_logo_desc">App logo</string>
+    <string name="hint_name">Name</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="btn_register">Register</string>
+    <string name="login_page_title">Login Page</string>
+    <string name="list_chat_title">List Chat</string>
+
+</resources>
